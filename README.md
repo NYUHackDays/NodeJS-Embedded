@@ -1,4 +1,6 @@
-node_in_an_embedded_env
+NodeJS in an embedded environment
 =======================
 
-This is a repository to hold code examples from the Dec. 19th Node.js in the Wild Boston meetup and NYC Node.js Feb. 20 meetup.  
+This is a repository to hold code examples from NodeJS Talk at HackDays 
+
+- https://github.com/KokoFitClub/node_in_an_embedded_env
